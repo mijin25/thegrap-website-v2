@@ -1,0 +1,63 @@
+{
+  "slides": [
+    {
+      "id": 1,
+      "headline": "Imagine more create better",
+      "ctaText": "Learn More",
+      "ctaLink": "#",
+      "mediaType": "video",
+      "videoSources": [
+        {
+          "src": "assets/hero-video-1-desktop.mp4",
+          "type": "video/mp4",
+          "media": "(min-width: 768px)"
+        },
+        {
+          "src": "assets/hero-video-1-desktop.mp4",
+          "type": "video/mp4",
+          "media": "(max-width: 767px)"
+        }
+      ],
+      "backgroundImage": "assets/hero-background-desktop.jpg",
+      "mobileBackgroundImage": "assets/hero-background-mobile.jpg",
+      "isActive": true
+    },
+    {
+      "id": 2,
+      "headline": "Design with purpose",
+      "ctaText": "Learn More",
+      "ctaLink": "#",
+      "mediaType": "video",
+      "videoSources": [
+        {
+          "src": "assets/hero-video-2-desktop.mp4",
+          "type": "video/mp4",
+          "media": "(min-width: 768px)"
+        },
+        {
+          "src": "assets/hero-video-2-desktop.mp4",
+          "type": "video/mp4",
+          "media": "(max-width: 767px)"
+        }
+      ],
+      "backgroundImage": "assets/hero-background-desktop-2.jpg",
+      "mobileBackgroundImage": "assets/hero-background-mobile-2.jpg",
+      "isActive": true
+    },
+    {
+      "id": 3,
+      "headline": "Build connections",
+      "ctaText": "Learn More",
+      "ctaLink": "#",
+      "mediaType": "image",
+      "backgroundImage": "assets/hero-background-desktop-3.jpg",
+      "mobileBackgroundImage": "assets/hero-background-mobile-3.jpg",
+      "isActive": true
+    }
+  ],
+  "settings": {
+    "autoSlideDelay": 5000,
+    "enableAutoSlide": true,
+    "totalSlides": 3
+  }
+}
